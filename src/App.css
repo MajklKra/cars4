@@ -1,0 +1,43 @@
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+body{
+  background-image: url("../images/Parkoviste.jpg");
+  background-size:cover;
+}
+
+#h1{
+color: #15f4ee;
+}
+
+.filter-form {
+  background-color: red;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+#add-car-form{
+  background-color: #6CB4EE;
+  opacity: 0.7;
+  border-radius: 15px;
+}
+
+#change-car-form{
+  background-color: #6CB4EE;
+  opacity: 0.7;
+  border-radius: 15px;
+  margin-bottom: 5rem;
+}
+
+
+p{
+  color: #15f4ee;
+  font-weight: bold;
+}
+
+.container{
+  width:500px;
+}

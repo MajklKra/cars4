@@ -1,0 +1,24 @@
+fieldset{
+    background-color: #6CB4EE;
+   /*  border: 1px solid black; */
+    border-radius: 15px;
+    opacity: 0.7;
+}
+
+legend{
+    color: white;
+}
+
+
+label{
+    color:white
+}
+
+input[type="text"] 
+{
+   margin-left: 0px;
+}
+
+button{
+    margin-left: 0px; 
+}
